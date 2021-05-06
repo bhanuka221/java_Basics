@@ -1,0 +1,13 @@
+source  ------------>  intermediate ops --------------> Terminal ops
+
+1)source 
+    *)Stream can created from 
+        # Collections , Lists, Sets, ints, longs, doubles, arrays, lines of a file
+
+2) intermediate ops
+    *) they return a stream. So we can chain multiple intermediate ops
+        #) filter, map, sort, anyMatch, distinct, findFirst, flatmap, skip
+
+3) Terminal ops 
+    *) Return void or non stream
+        #) forEach, collect, reduce, count, max, min, summaryStatistics
