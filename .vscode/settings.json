@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
         "Stream",
-        "DesignPatterns/Creational/Factory"
+        "DesignPatterns/Creational/Factory",
+        "Enum"
     ]
 }
