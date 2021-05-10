@@ -1,0 +1,1 @@
+*) Any interface with a Single Abstract Method is a functional interface. It's implementation can be done using the lamda expression
